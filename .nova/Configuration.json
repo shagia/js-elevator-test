@@ -1,0 +1,19 @@
+{
+  "eablokker.tabsSidebar.config.collapsedFolders" : [
+
+  ],
+  "eablokker.tabsSidebar.config.customKindGroupsOrder" : [
+    "javascript",
+    "json",
+    "markdown"
+  ],
+  "eablokker.tabsSidebar.config.customTabOrder" : [
+    "file:\/\/\/Users\/devin.sg\/Development\/js-elevator-test\/src\/components\/ElevatorSystem.js",
+    "file:\/\/\/Users\/devin.sg\/Development\/js-elevator-test\/README.md",
+    "file:\/\/\/Users\/devin.sg\/Development\/js-elevator-test\/package.json",
+    "file:\/\/\/Users\/devin.sg\/Development\/js-elevator-test\/src\/app.js",
+    "file:\/\/\/Users\/devin.sg\/Development\/js-elevator-test\/src\/components\/ElevatorCar.js"
+  ],
+  "workspace.art_style" : 0,
+  "workspace.name" : "elevator-test"
+}
