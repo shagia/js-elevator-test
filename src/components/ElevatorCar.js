@@ -15,6 +15,7 @@ class ElevatorCar {
   }
 
   moveElevator() {
+    // Maybe simulate the movement of an elevator using setTimeout?
     while (this.floorQueue.length > 0) {
       this.currentFloor = this.floorQueue[0]
       this.floorQueue.shift()
